@@ -1,0 +1,3 @@
+InstagramAPI
+requests
+vk_api
