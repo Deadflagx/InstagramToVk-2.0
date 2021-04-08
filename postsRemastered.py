@@ -24,7 +24,7 @@ upload = VkUpload(vk)
 session = requests.Session()
 
 #INST AUTH
-api = InstagramAPI(inst_login, inst_password) #13091091211
+api = InstagramAPI(inst_login, inst_password)
 api.login()  
 time.sleep(5)
 
